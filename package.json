@@ -1,0 +1,27 @@
+{
+  "name": "dans-test",
+  "version": "1.0.0",
+  "description": "Dans Multi Pro Backend Tech Test",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "nodemon ./src/main.js"
+  },
+  "author": "Eko Prasetyo",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1",
+    "redis": "^4.6.7",
+    "winston": "^3.10.0"
+  }
+}
