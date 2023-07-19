@@ -25,7 +25,7 @@ cp .env.example .env
 docker-compose up -d --build
 ```
 
-## Import Database
+### Import Database
 database in folder ```docs```
 
 ### Login
