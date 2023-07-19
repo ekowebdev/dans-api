@@ -13,7 +13,7 @@ git clone https://github.com/ekowebdev/dans-test.git
 cd dans-test
 cp .env.example .env
 npm install
-node src/main.js
+npm start
 ```
 
 ## Instalation with Docker
