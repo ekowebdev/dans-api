@@ -1,4 +1,4 @@
-# Dnas Multi Pro Backend Tech Test
+# Dans Multi Pro Backend Tech Test
 
 ## Spesification
 - Language: Javascript
@@ -29,5 +29,5 @@ docker-compose up -d --build
 database in folder ```docs```
 
 ### Login
-Email = ````eko@mail.com``` 
+Email = ```eko@mail.com``` 
 password = ```123456```
