@@ -1,4 +1,4 @@
-# Dans Multi Pro Backend Tech Test
+# Dans API
 
 ## Spesification
 - Language: Javascript
@@ -9,8 +9,8 @@
 ## Instalation Local
 
 ```
-git clone https://github.com/ekowebdev/dans-test.git
-cd dans-test
+git clone https://github.com/ekowebdev/dans-api.git
+cd dans-api
 cp .env.example .env
 npm install
 npm start
@@ -19,8 +19,8 @@ npm start
 ## Instalation with Docker
 
 ```
-git clone https://github.com/ekowebdev/dans-test.git
-cd dans-test
+git clone https://github.com/ekowebdev/dans-api.git
+cd dans-api
 cp .env.example .env
 docker-compose up -d --build
 ```
